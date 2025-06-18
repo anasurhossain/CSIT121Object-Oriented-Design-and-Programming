@@ -1,0 +1,64 @@
+
+
+    Project info: 
+    Name: Solar Future,
+    Category: Energy from waste,
+    Year Started: 2020,
+    Location: Sydney, New South Wales,
+    Funding: 300000,
+    Total Cost: 500000
+
+
+    Project info: 
+    Name: Wind Vision,
+    Category: Wind energy,
+    Year Started: 2019,
+    Location: Melbourne, Victoria,
+    Funding: 500000,
+    Total Cost: 750000
+
+    Project info: 
+    Name: Hydro NextGen,
+    Category: Education,
+    Year Started: 2021,
+    Location: Brisbane, Queensland,
+    Funding: 400000,
+    Total Cost: 600000
+
+
+    Project info: 
+    Name: BioPower Drive,
+    Category: Bioenergy,
+    Year Started: 2018,
+    Location: Adelaide, South Australia,
+    Funding: 250000,
+    Total Cost: 450000
+
+
+    Project info: 
+    Name: Geothermal Edge,
+    Category: Distributed energy resources,
+    Year Started: 2022,
+    Location: Perth, Western Australia,
+    Funding: 600000,
+    Total Cost: 850000
+
+
+    Project info: 
+    Name: Tidal Techwave,
+    Category: Battery storage,
+    Year Started: 2023,
+    Location: Hobart, Tasmania,
+    Funding: 350000,
+    Total Cost: 550000
+
+
+    Project info: 
+    Name: Green Grid,
+    Category: Electric vehicles,
+    Year Started: 2020,
+    Location: Canberra, Australian Capital Territory,
+    Funding: 300000,
+    Total Cost: 700000
+
+
