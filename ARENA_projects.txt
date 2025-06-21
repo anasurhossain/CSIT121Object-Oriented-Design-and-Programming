@@ -1,5 +1,4 @@
 
-
     Project info: 
     Name: Solar Future,
     Category: Energy from waste,

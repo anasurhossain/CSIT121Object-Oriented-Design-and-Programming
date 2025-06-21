@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Project",
+        "Name": "Solar Future",
+        "Category": "Energy from waste",
+        "State": "New South Wales",
+        "Location": "Sydney, New South Wales",
+        "Funding": "$0.30m",
+        "Total Cost": "$0.50m",
+        "Period": "01/01/2020 \u2013 31/12/2020"
+    },
+    {
+        "type": "Project",
+        "Name": "Wind Vision",
+        "Category": "Wind energy",
+        "State": "Victoria",
+        "Location": "Melbourne, Victoria",
+        "Funding": "$0.50m",
+        "Total Cost": "$0.75m",
+        "Period": "01/01/2019 \u2013 31/12/2019"
+    },
+    {
+        "type": "Project",
+        "Name": "Hydro NextGen",
+        "Category": "Education",
+        "State": "Queensland",
+        "Location": "Brisbane, Queensland",
+        "Funding": "$0.40m",
+        "Total Cost": "$0.60m",
+        "Period": "01/01/2021 \u2013 31/12/2021"
+    },
+    {
+        "type": "Project",
+        "Name": "BioPower Drive",
+        "Category": "Bioenergy",
+        "State": "South Australia",
+        "Location": "Adelaide, South Australia",
+        "Funding": "$0.25m",
+        "Total Cost": "$0.45m",
+        "Period": "01/01/2018 \u2013 31/12/2018"
+    },
+    {
+        "type": "Project",
+        "Name": "Geothermal Edge",
+        "Category": "Distributed energy resources",
+        "State": "Western Australia",
+        "Location": "Perth, Western Australia",
+        "Funding": "$0.60m",
+        "Total Cost": "$0.85m",
+        "Period": "01/01/2022 \u2013 31/12/2022"
+    },
+    {
+        "type": "Project",
+        "Name": "Tidal Techwave",
+        "Category": "Battery storage",
+        "State": "Tasmania",
+        "Location": "Hobart, Tasmania",
+        "Funding": "$0.35m",
+        "Total Cost": "$0.55m",
+        "Period": "01/01/2023 \u2013 31/12/2023"
+    },
+    {
+        "type": "Project",
+        "Name": "Green Grid",
+        "Category": "Electric vehicles",
+        "State": "Australian Capital Territory",
+        "Location": "Canberra, Australian Capital Territory",
+        "Funding": "$0.30m",
+        "Total Cost": "$0.70m",
+        "Period": "01/01/2020 \u2013 31/12/2020"
+    },
+    {
+        "type": "Project",
+        "Name": "Solar",
+        "Category": "Bioenergy",
+        "State": "South Australia",
+        "Location": "Adelaide, South Australia",
+        "Funding": "$1.22m",
+        "Total Cost": "$3.78m",
+        "Period": "03/05/2023 - 19/01/2027"
+    }
+]
